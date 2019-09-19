@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3458-5915
+
+ Directory of C:\Users\lkshr\Desktop\theproject
+
+19-09-2019  18:45    <DIR>          .
+19-09-2019  18:45    <DIR>          ..
+19-09-2019  18:45                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  58,508,861,440 bytes free
